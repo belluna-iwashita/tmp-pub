@@ -3,3 +3,5 @@
 
 UTF8で統一します
 
+→ Pull Requestの練習
+
