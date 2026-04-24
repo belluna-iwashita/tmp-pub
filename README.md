@@ -8,3 +8,5 @@ UTF8で統一します
 → 別ブランチからgit push origin main することができるか?  
 競合しない位置の更新なら?  
 
+...git stashの機能確認...
+
