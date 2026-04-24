@@ -5,3 +5,6 @@ UTF8で統一します
 
 → Pull Requestの練習
 
+→ 別ブランチからgit push origin main することができるか?
+
+
