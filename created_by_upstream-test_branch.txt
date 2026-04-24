@@ -1,0 +1,2 @@
+これはupstreamをmainに設定したブランチupstream-test で追加した
+ファイルです
