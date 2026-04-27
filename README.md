@@ -3,10 +3,14 @@
 ★コンフリクトさせてみる★  
 UTF8で統一します  
 
+　　→ feature/remote-branch での更新  
+
 → Pull Requestの練習  
 
 → 別ブランチからgit push origin main することができるか?  
 競合しない位置の更新なら?  
 
+ローカルで更新(1)
+ローカルで更新(2)
 ...git stashの機能確認...
 
