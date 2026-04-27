@@ -3,6 +3,8 @@
 ★コンフリクトさせてみる★  
 UTF8で統一します  
 
+　　→ feature/remote-branch での更新  
+
 → Pull Requestの練習  
 
 → 別ブランチからgit push origin main することができるか?  
