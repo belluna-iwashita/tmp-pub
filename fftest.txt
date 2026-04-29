@@ -1,2 +1,5 @@
 これはfast forwardの動作確認のためのファイル
 
+ローカルで更新
+
+merge commitを作成する
